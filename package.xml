@@ -4,7 +4,7 @@
   <name>micvision</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="manoj.karnekar@solarisrobots.in">manoj</maintainer>
+  <maintainer email="manojkarnekar1@gmail.com">manoj</maintainer>
   <license>TODO: License declaration</license>
 
  <depend>rclcpp</depend>
