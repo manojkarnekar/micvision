@@ -1,0 +1,11 @@
+# Ignore everything
+/*
+/*/
+
+# But not these files & folders...
+!.gitignore
+!/CMakeLists.txt
+!/src
+!/package.xml
+!/README.md
+!/LICENSE
